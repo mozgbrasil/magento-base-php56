@@ -1,0 +1,27 @@
+{
+  "name": "magento-base",
+  "version": "1.0.0",
+  "description": "magento-base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcio dos Santos Amorim",
+  "license": "ISC",
+  "dependencies": {
+    "cpf_cnpj": "^0.2.0",
+    "creditcard-info": "^0.2.4",
+    "creditcardgenerator": "^1.0.7",
+    "is-visible": "^2.1.1",
+    "prelodr": "^2.1.1",
+    "random-fullname": "^1.0.2",
+    "random-item": "^1.0.0",
+    "random-month": "^1.0.1",
+    "random-natural": "^1.0.3",
+    "random-year": "^1.0.2",
+    "smart-utils": "0.0.7",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}
